@@ -664,7 +664,6 @@ a.get-started {
     position: relative;
     overflow: visible;
 }
-
 .tabs-section .container {
     padding: 100px 20px 100px 20px;
     max-width: var(--desktop-max-width);

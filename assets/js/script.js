@@ -138,5 +138,4 @@ if (hamburger && mobileMenu) {
     mobileMenu.classList.toggle("active");
   });
 }
-
 // END MOBILE MENU TOGGLE
